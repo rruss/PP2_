@@ -1,0 +1,7 @@
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\bin\Debug\SnakeThread.exe.config
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\bin\Debug\SnakeThread.exe
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\bin\Debug\SnakeThread.pdb
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\obj\Debug\SnakeThread.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\obj\Debug\SnakeThread.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\obj\Debug\SnakeThread.exe
+C:\Users\Disketa.kz\source\repos\SnakeThread\SnakeThread\obj\Debug\SnakeThread.pdb

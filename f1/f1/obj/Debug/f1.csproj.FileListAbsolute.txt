@@ -1,0 +1,10 @@
+C:\Users\Disketa.kz\source\repos\f1\f1\bin\Debug\f1.exe.config
+C:\Users\Disketa.kz\source\repos\f1\f1\bin\Debug\f1.exe
+C:\Users\Disketa.kz\source\repos\f1\f1\bin\Debug\f1.pdb
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.Form1.resources
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.exe
+C:\Users\Disketa.kz\source\repos\f1\f1\obj\Debug\f1.pdb

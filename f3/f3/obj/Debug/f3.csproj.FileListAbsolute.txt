@@ -1,0 +1,10 @@
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.Form1.resources
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\f3\f3\bin\Debug\f3.exe.config
+C:\Users\Disketa.kz\source\repos\f3\f3\bin\Debug\f3.exe
+C:\Users\Disketa.kz\source\repos\f3\f3\bin\Debug\f3.pdb
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.exe
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.pdb
+C:\Users\Disketa.kz\source\repos\f3\f3\obj\Debug\f3.csprojResolveAssemblyReference.cache

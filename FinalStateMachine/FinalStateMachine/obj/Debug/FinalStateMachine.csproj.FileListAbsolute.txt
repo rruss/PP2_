@@ -1,0 +1,10 @@
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\bin\Debug\FinalStateMachine.exe.config
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\bin\Debug\FinalStateMachine.exe
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\bin\Debug\FinalStateMachine.pdb
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.Form1.resources
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.exe
+C:\Users\Disketa.kz\source\repos\FinalStateMachine\FinalStateMachine\obj\Debug\FinalStateMachine.pdb

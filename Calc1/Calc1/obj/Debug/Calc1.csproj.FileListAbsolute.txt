@@ -1,0 +1,10 @@
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\Disketa.kz\source\repos\Calc1\Calc1\obj\Debug\Calc1.pdb

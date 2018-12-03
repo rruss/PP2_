@@ -1,0 +1,7 @@
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\bin\Debug\FinalSnake.exe.config
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\bin\Debug\FinalSnake.exe
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\bin\Debug\FinalSnake.pdb
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\obj\Debug\FinalSnake.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\obj\Debug\FinalSnake.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\obj\Debug\FinalSnake.exe
+C:\Users\Disketa.kz\source\repos\FinalSnake\FinalSnake\obj\Debug\FinalSnake.pdb

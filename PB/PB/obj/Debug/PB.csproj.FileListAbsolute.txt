@@ -1,0 +1,5 @@
+C:\Users\Disketa.kz\source\repos\PB\PB\obj\Debug\PB.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\PB\PB\obj\Debug\PB.Form1.resources
+C:\Users\Disketa.kz\source\repos\PB\PB\obj\Debug\PB.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\PB\PB\obj\Debug\PB.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\PB\PB\obj\Debug\PB.csproj.CoreCompileInputs.cache

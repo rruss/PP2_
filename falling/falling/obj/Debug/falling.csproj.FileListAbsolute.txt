@@ -1,0 +1,9 @@
+C:\Users\Disketa.kz\source\repos\falling\falling\bin\Debug\falling.exe.config
+C:\Users\Disketa.kz\source\repos\falling\falling\bin\Debug\falling.exe
+C:\Users\Disketa.kz\source\repos\falling\falling\bin\Debug\falling.pdb
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.Form1.resources
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.exe
+C:\Users\Disketa.kz\source\repos\falling\falling\obj\Debug\falling.pdb

@@ -1,0 +1,7 @@
+C:\Users\Disketa.kz\source\repos\BS\BS\bin\Debug\BS.exe.config
+C:\Users\Disketa.kz\source\repos\BS\BS\bin\Debug\BS.exe
+C:\Users\Disketa.kz\source\repos\BS\BS\bin\Debug\BS.pdb
+C:\Users\Disketa.kz\source\repos\BS\BS\obj\Debug\BS.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\BS\BS\obj\Debug\BS.exe
+C:\Users\Disketa.kz\source\repos\BS\BS\obj\Debug\BS.pdb
+C:\Users\Disketa.kz\source\repos\BS\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache

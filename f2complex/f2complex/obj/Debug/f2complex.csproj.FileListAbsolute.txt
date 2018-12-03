@@ -1,0 +1,6 @@
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\bin\Debug\f2complex.exe.config
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\bin\Debug\f2complex.exe
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\bin\Debug\f2complex.pdb
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\obj\Debug\f2complex.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\obj\Debug\f2complex.exe
+C:\Users\Disketa.kz\source\repos\f2complex\f2complex\obj\Debug\f2complex.pdb

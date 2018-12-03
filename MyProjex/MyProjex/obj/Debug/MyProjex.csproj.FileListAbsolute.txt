@@ -1,0 +1,2 @@
+C:\Users\Disketa.kz\source\repos\MyProjex\MyProjex\obj\Debug\MyProjex.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\MyProjex\MyProjex\obj\Debug\MyProjex.csproj.CoreCompileInputs.cache

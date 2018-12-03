@@ -1,0 +1,10 @@
+C:\Users\Disketa.kz\source\repos\mysql\mysql\bin\Debug\mysql.exe.config
+C:\Users\Disketa.kz\source\repos\mysql\mysql\bin\Debug\mysql.exe
+C:\Users\Disketa.kz\source\repos\mysql\mysql\bin\Debug\mysql.pdb
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.Form1.resources
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.exe
+C:\Users\Disketa.kz\source\repos\mysql\mysql\obj\Debug\mysql.pdb

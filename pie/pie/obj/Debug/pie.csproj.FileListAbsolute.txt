@@ -1,0 +1,9 @@
+C:\Users\Disketa.kz\source\repos\pie\pie\bin\Debug\pie.exe.config
+C:\Users\Disketa.kz\source\repos\pie\pie\bin\Debug\pie.exe
+C:\Users\Disketa.kz\source\repos\pie\pie\bin\Debug\pie.pdb
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.Form1.resources
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.Properties.Resources.resources
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.csproj.GenerateResource.Cache
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.exe
+C:\Users\Disketa.kz\source\repos\pie\pie\obj\Debug\pie.pdb

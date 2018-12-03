@@ -1,0 +1,7 @@
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\bin\Debug\ProbnyiSnake.exe.config
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\bin\Debug\ProbnyiSnake.exe
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\bin\Debug\ProbnyiSnake.pdb
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\obj\Debug\ProbnyiSnake.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\obj\Debug\ProbnyiSnake.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\obj\Debug\ProbnyiSnake.exe
+C:\Users\Disketa.kz\source\repos\ProbnyiSnake\ProbnyiSnake\obj\Debug\ProbnyiSnake.pdb

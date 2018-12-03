@@ -1,0 +1,7 @@
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\obj\Debug\FindPrime.csprojResolveAssemblyReference.cache
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\obj\Debug\FindPrime.csproj.CoreCompileInputs.cache
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\bin\Debug\FindPrime.exe.config
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\bin\Debug\FindPrime.exe
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\bin\Debug\FindPrime.pdb
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\obj\Debug\FindPrime.exe
+C:\Users\Disketa.kz\source\repos\FindPrime\FindPrime\obj\Debug\FindPrime.pdb
